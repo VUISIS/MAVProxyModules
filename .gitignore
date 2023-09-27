@@ -4,6 +4,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+mavproxy_battery_demo/config.py
+
 # C extensions
 *.so
 
